@@ -21,11 +21,6 @@ Analyzed product-level and region-level sales trends
 
 Summarized total revenue, unit sales, and commissions across products
 
-# Files
-Sales_Data.xlsx – Cleaned dataset with formulas and charts
-
-Sales_Dashboard.png – Snapshot of the interactive dashboard
-
 # Skills Demonstrated
 Data Cleaning
 
